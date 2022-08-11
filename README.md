@@ -12,4 +12,4 @@ SuzuLang
 
 Discontinued repos:
 More-Armors
-[![Puppynuffs stats ig](https://github-readme-stats.vercel.app/api?username=Suzzudev)](https://github.com/anuraghazra/github-readme-stats)]
+[![Puppynuffs stats ig](https://github-readme-stats.vercel.app/api?username=Suzzudev)](https://github.com/anuraghazra/github-readme-stats)
