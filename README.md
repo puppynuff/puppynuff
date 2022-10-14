@@ -1,13 +1,3 @@
-# Hello!
-I am puppynuff / SuzuDev (The extra z is since SuzuDev is taken)
-
-I make youtube videos, develop discord bots, and just mess around with coding (every other monday and tuesday I think will be my schedule)
-
-Currently active repos:
-Suzu, Suzu.ts (Planning to outdate it, I like eris more for discord so far.)
-SpookCord (Until event is over)
-Suzu-Script
-
 <a href="https://discord.com/users/869841584378748938" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/869841584378748938?bg=1f1f1f&borderRadius=5px">
 </a>
@@ -19,4 +9,6 @@ Suzu-Script
 	<img width="50%" align="right" alt="Coding rating" src="https://github-readme-stats.vercel.app/api?username=Suzzudev">
 </a>
 
-I write code.
+
+# Hello!
+I am Shiro / SuzuDev (The extra z is since SuzuDev is taken)
