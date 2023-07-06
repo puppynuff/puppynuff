@@ -1,4 +1,74 @@
+<img src="https://images-ng.pixai.art/images/orig/793b5d93-97d2-4911-8bac-2f952e6b757c">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShiroDevv&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+---
+
+## <h1 style="color : #f000c8;">Hello 👋, I am <span style="color: #a10086">ShiroDevv<span></h2>
+
+## About me:
+### - 17 Years old, interested in Machine learning and Theoretical CS.
+
+### - Learning
+* AI (Machine learning, stable diffusion, ect.)
+* Backend development
+* Rust
+
+### - Hobbies : 
+* Gaming
+* Art (Sometimes)
+* Programming
+
+### - Languages and tools
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50/>
+</p>
+
+
+## - Current Projects
+### -[Kaggle Art api](https://www.kaggle.com/code/shirodev/shirobots-art-api/notebook)
+
+### - [Lunar Fox Programming language](https://github.com/ShiroDevv/LunarFox)
+
+## Future plans
+
+### Programming software
+#### - Designed specifically for the things I code in: Rust, javascript / typescript, and python
+
+### - Jyupiter Notebooks, but for JS / TS
+
+### - Discord bot for running code, and other things.
+
+## Goals for the year
+### - Finishing current programming language
+### - Making at least one commit a day
+### - Getting proficient in rust
+### - An AI to play a game
+#### - Current options :
+A hat in time
+
+celeste
+
+Peglin
+## -Github Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ShiroDevv&show_icons=true&theme=tokyonight" alt="ShiroDevv" />
   
-![My Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroDevv&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirodevv&layout=donut&theme=tokyonight)](https://github.com/shirodevv/lunarfox)
+
+[![ShiroDevv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShiroDevv)](https://github.com/shirodevv/lunarfox)
