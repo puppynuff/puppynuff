@@ -41,7 +41,7 @@
 
 
 ## - Current Projects
-### -[Kaggle Art api](https://www.kaggle.com/code/shirodev/shirobots-art-api/notebook)
+### - [Kaggle Art api](https://www.kaggle.com/code/shirodev/shirobots-art-api/notebook)
 
 ### - [Lunar Fox Programming language](https://github.com/ShiroDevv/LunarFox)
 
