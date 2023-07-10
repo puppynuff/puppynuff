@@ -5,7 +5,7 @@
 ## <h1 style="color : #f000c8;">Hello 👋, I am <span style="color: #a10086">ShiroDevv<span></h2>
 
 ## About me:
-### - 17 Years old, interested in Machine learning and Theoretical CS.
+### - 16 Years old, interested in Machine learning and Theoretical CS.
 
 ### - Learning
 * AI (Machine learning, stable diffusion, ect.)
