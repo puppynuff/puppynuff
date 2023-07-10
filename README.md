@@ -70,4 +70,7 @@ celeste
 Peglin
 ## -Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ShiroDevv&show_icons=true&theme=tokyonight)](https://github.com/shirodevv/lunarfox)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirodevv&layout=donut&theme=tokyonight)](https://github.com/shirodevv/lunarfox)  
-[![ShiroDevv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShiroDevv&theme=tokyonight)](https://github.com/shirodevv/lunarfox)
+
+p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShiroDevv&theme=tokyonight" alt="ShiroDevv's wakatime stats"/>
+</p>
