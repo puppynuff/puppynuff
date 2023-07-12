@@ -45,8 +45,11 @@
 
 ### - [Lunar Fox Programming language](https://github.com/ShiroDevv/LunarFox)
 
-### - [Sapphire Development tools](https://github.com/ShiroDevv/sapphire)
+### - [Solar Fox Syntax Highlighter](https://github.com/ShiroDevv/sapphire)
 #### Designed for my custom language
+This was meant to be a full IDE, and it will at some point, but for now its being put on hold
+
+I need to think about how I will do editing of text. But Syntax extensions and syntax highlighting works.
 
 ## Future plans
 
