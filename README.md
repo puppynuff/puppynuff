@@ -1,4 +1,4 @@
-<img src="https://images-ng.pixai.art/images/orig/793b5d93-97d2-4911-8bac-2f952e6b757c">
+<img src="/348402799079475732.png">
 
 ---
 
