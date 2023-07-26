@@ -41,11 +41,14 @@
 
 
 ## - Current Projects
-### - [Kaggle Art api](https://www.kaggle.com/code/shirodev/shirobots-art-api/notebook)
+### - [Kaggle Art api](https://www.kaggle.com/code/lunadevvv/shirobots-art-api/notebook)
 
-### - [Lunar Fox Programming language](https://github.com/ShiroDevv/LunarFox)
+### - [Lunar Fox Programming language](https://github.com/lunadevvv/LunarFox)
 
-### - [Solar Fox Syntax Highlighter](https://github.com/ShiroDevv/sapphire)
+### - [LunaOS](https://github.com/lunadevvv/website)
+Currently its just a JS website to act like a OS, but it might become a linux distro at some point!
+
+### - [Solar Fox Syntax Highlighter](https://github.com/lunadevvv/SolarFox)
 #### Designed for my custom language
 This was meant to be a full IDE, and it will at some point, but for now its being put on hold
 
