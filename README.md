@@ -37,6 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50/>
+<br>
+<img src="https://wakatime.com/badge/user/fe27b223-b910-4bb2-a34c-7d71bfa83299.svg">
 </p>
 
 
