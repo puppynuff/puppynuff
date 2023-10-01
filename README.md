@@ -2,7 +2,7 @@
 
 ---
 
-## <h1 style="color : #f000c8;">Hello 👋, I am <span style="color: #a10086">ShiroDevv<span></h2>
+## <h1 style="color : #f000c8;">Hello 👋, I am <span style="color: #a10086">PuppyNuff<span></h2>
 
 ## About me:
 ### - Interested in Machine learning and Theoretical CS.
