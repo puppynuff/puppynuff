@@ -43,14 +43,14 @@
 
 
 ## - Current Projects
-### - [Kaggle Art api](https://www.kaggle.com/code/lunadevvv/shirobots-art-api/notebook)
+### - [Kaggle Art api](https://www.kaggle.com/code/puppynuff/shirobots-art-api/notebook)
 
-### - [Lunar Fox Programming language](https://github.com/lunadevvv/LunarFox)
+### - [Lunar Fox Programming language](https://github.com/puppynuff/LunarFox)
 
-### - [LunaOS](https://github.com/lunadevvv/website)
+### - [LunaOS](https://github.com/puppynuff/website)
 Currently its just a JS website to act like a OS, but it might become a linux distro at some point!
 
-### - [Solar Fox Syntax Highlighter](https://github.com/lunadevvv/SolarFox)
+### - [Solar Fox Syntax Highlighter](https://github.com/puppynuff/SolarFox)
 #### Designed for my custom language
 This was meant to be a full IDE, and it will at some point, but for now its being put on hold
 
@@ -77,8 +77,8 @@ celeste
 
 Peglin
 ## -Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=lunadevvv&show_icons=true&theme=tokyonight)](https://github.com/lunadevvv/website)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunadevvv&layout=donut&theme=tokyonight)](https://github.com/lunadevvv/lunarfox)  
+[![Github stats](https://github-readme-stats.vercel.app/api?username=puppynuff&show_icons=true&theme=tokyonight)](https://github.com/puppynuff/website)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppynuff&layout=donut&theme=tokyonight)](https://github.com/puppynuff/lunarfox)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lunadevvv&theme=tokyonight" alt="lunadevvv's wakatime stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=puppynuff&theme=tokyonight" alt="puppynuff's wakatime stats"/>
 </p>
