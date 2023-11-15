@@ -83,4 +83,4 @@ Peglin
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=puppynuff&theme=tokyonight" alt="puppynuff's wakatime stats"/>
 </p>
 
-I made a [carrd](https://possiblyshiro.carrd.co/)]!
+I made a [carrd](https://possiblyshiro.carrd.co/)!
