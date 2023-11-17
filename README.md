@@ -1,4 +1,4 @@
-<img src="/shiro+nebula.png">
+<img src="/Shiro+Nebula.png">
 
 ---
 
