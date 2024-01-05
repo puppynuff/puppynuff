@@ -19,3 +19,7 @@ Mostly still working with just typescript and javascript, although I am slowly m
 
 Obviously my plans for 2023 fell through, I didn't really have motivation or ideas.
 Hopefully with these, I can do it in 2024!
+
+Trying again for the daily commit.
+
+ALSO my commits are broken? Sometimes I'll make a commit and github wont mark it in the commit thing. Its not totally accurate.
