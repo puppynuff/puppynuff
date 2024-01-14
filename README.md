@@ -1,4 +1,4 @@
-<img src="/Shiro+Nebula.png">
+<img src="/Me_Chibi.png" width="200" height="200">
 
 # Hello, I am Shiro.
 Working with backend software, and websites.
@@ -12,6 +12,7 @@ Working with backend software, and websites.
 * Remake my [carrd](https://plausiblyshiro.carrd.co/) manually.
 * Mocha (Programming Language)
 * Try to make a Jyupiter notebook thing for Js / Ts
+* Make a picrew knockoff?
 
 and more to come!
 
@@ -23,3 +24,4 @@ Hopefully with these, I can do it in 2024!
 Trying again for the daily commit.
 
 ALSO my commits are broken? Sometimes I'll make a commit and github wont mark it in the commit thing. Its not totally accurate.
+<img src="/Me ^-^.png" width="100" height="100">
