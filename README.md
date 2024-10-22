@@ -1,6 +1,6 @@
 <img src="/Me_Chibi.png" width="200" height="200">
 
-# Hello, I am Stella.
+# Hello, I am Kokabiel.
 
 Working with backend software, and websites.
 
