@@ -1,1 +1,10 @@
-# Give me some time, reworking the repos
+# Hi, I'm Ari
+Also found as kokabiel, and puppynuff.
+
+## About me
+Computer science student, currently working on learning C++ in my freetime, and working on a internship.
+
+I primarily program is Javascript / Typescript, but my more recent projects are going to move over to C++.
+
+## Current Project
+-> Reprogramming my discord bot in C++
