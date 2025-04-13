@@ -14,3 +14,7 @@ I primarily program is Javascript / Typescript, but my more recent projects are 
 -> C++ Game engine / Library called Catu
 
 -> C++ Minecraft clone (Using Catu when that is completed)
+
+ --------- Project Licensing ---------
+
+All of my projects are under the GNU General Public License v3.0
