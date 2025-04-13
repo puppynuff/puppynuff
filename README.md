@@ -7,4 +7,9 @@ Computer science student, currently working on learning C++ in my freetime, and 
 I primarily program is Javascript / Typescript, but my more recent projects are going to move over to C++.
 
 ## Current Project
--> Reprogramming my discord bot in C++
+-> Reprogramming my discord bot in C++.<\br>
+* This will help me learn C++.
+
+## Planned projects
+-> C++ Game engine / Library called Catu<\br>
+-> C++ Minecraft clone (Using Catu when that is completed)
