@@ -15,6 +15,8 @@ I primarily program in Javascript / Typescript, but my more recent projects are 
 
 -> C++ Minecraft clone (Using Catu when that is completed)
 
+-> C++ Kernel called P64
+
  --------- Project Licensing ---------
 
 All of my projects are under the GNU General Public License v3.0
