@@ -24,4 +24,4 @@ All of my projects are under the GNU General Public License v3.0
 
 # こおにちわ、わたしわありです！
 
-(This is the extent of japanese I knjow so far ngl :< )
+(This is the extent of japanese I know so far ngl :< )
